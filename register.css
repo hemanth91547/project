@@ -1,0 +1,73 @@
+div{
+    border:2px solid rgb(171, 171, 248);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(197, 140, 250);
+    width: 400px;
+    height: 420px;
+    margin-top:100px;
+}
+.na{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(199, 101, 255);
+
+}
+.sub{
+    margin: 40px;
+    width: 100px;
+    height: 30px;
+    color: rgb(100, 3, 255);
+    background-color:cadetblue;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:20px ;
+
+
+}
+.sub:hover{
+    background-color: rgb(44, 44, 44);
+    color: beige;
+}
+h1{
+    color: rgb(248, 46, 255);
+}
+.name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(2, 0, 3);
+    font-size:14px;
+    background: transparent;
+    border:1px solid rgb(7, 201, 250)
+}
+.password{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(2, 0, 3);
+    font-size:14px;
+    background: transparent;
+    border:1px solid rgb(7, 201, 250)
+
+}
+.email{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(2, 0, 3);
+    font-size:14px;
+    background: transparent;
+    border:1px solid rgb(7, 201, 250)
+}
+body{
+    background-image: url('imag/pexels-andre-furtado-1162251.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.di{
+    background-image: url('imag/pexels-tahir-shaw-186980.jpg');
+    background-size: cover;
+}
+h5{
+    color: lawngreen;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    color: blanchedalmond;
+}
